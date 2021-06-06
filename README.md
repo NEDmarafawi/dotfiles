@@ -2,6 +2,14 @@
 
 # Packages
 
+### i3wm
+
+### Zsh
+
+### Terminal
+
+### VS Code
+
 # Fonts
 
 
