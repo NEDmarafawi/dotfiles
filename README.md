@@ -11,6 +11,11 @@
 </p>
 
 ### Zsh
+<p>
+  <code>
+    sudo apt install zsh
+  </code>
+</p>
 
 ### Terminal
 
