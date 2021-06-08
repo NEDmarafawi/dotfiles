@@ -3,6 +3,12 @@
 # Packages
 
 ### i3wm
+<p>
+  <code>
+    sudo apt update
+    sudo apt install i3
+  </code>
+</p>
 
 ### Zsh
 
