@@ -11,7 +11,10 @@
 ### VS Code
 
 # Fonts
-
+  <li>nerd-fonts-shuretechmono</li>
+  <li>ttf-font-awesome</li>
+  <li>ttf-hack</li>
+  <li>ttf-roboto</li>
 
 
 
