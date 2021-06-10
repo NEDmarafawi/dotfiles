@@ -18,6 +18,11 @@
 </p>
 
 ### Terminal
+<p>
+  <code>
+    sudo apt-get install terminator
+  </code>
+</p>
 
 ### VS Code
 <p>
