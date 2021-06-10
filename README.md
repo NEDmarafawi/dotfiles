@@ -5,15 +5,16 @@
 ### i3wm
 <p>
   <code>
-    sudo apt update
-    sudo apt install i3
+    sudo apt-get update
+    
+   sudo apt-get install i3
   </code>
 </p>
 
 ### Zsh
 <p>
   <code>
-    sudo apt install zsh
+    sudo apt-get install zsh
   </code>
 </p>
 
@@ -27,7 +28,7 @@
 ### VS Code
 <p>
   <code>
-    sudo apt install code
+    sudo apt-get install code
   </code>
 </p>
 
