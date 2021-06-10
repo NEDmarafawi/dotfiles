@@ -20,6 +20,12 @@
 ### Terminal
 
 ### VS Code
+<p>
+  <code>
+    sudo apt install code
+  </code>
+</p>
+
 
 # Fonts
   <li>nerd-fonts-shuretechmono</li>
